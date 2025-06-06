@@ -1,0 +1,46 @@
+
+Creating strapi application
+
+setting up Git repo
+
+running an local application
+create models
+
+pushing changes to git
+
+setting up s3 bucket
+
+setting up cloudfront
+
+update env with details
+
+configuring plugins for use bucket and cloudfront
+
+Pushing changes to Repository
+
+Spinning up Instance
+
+Setting up environment
+
+Creating Postgres instance
+Configuring Postgres instance
+
+Setting up application
+
+Building application
+
+Setting Build memory limit
+
+Setting up Swap
+
+Updating Nginx config
+
+updating client_max_size
+
+Testing nginx config
+
+Applying config
+
+Create certificates (certbot) 
+
+follow up to account creation
