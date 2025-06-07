@@ -1,7 +1,13 @@
+= Strapi Application from development to going production
+
+Requirements
+before
+
+Nodejs, Package-manager, Python, AWS Account
 
 Creating strapi application
 
-setting up Git repo
+running 
 
 running an local application
 create models
@@ -41,6 +47,8 @@ Testing nginx config
 
 Applying config
 
-Create certificates (certbot) 
+follow up to account creation on production 
 
-follow up to account creation
+automating deployment with webhooks
+
+Securing our app instance
